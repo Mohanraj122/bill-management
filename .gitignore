@@ -1,0 +1,29 @@
+# Node.js
+**/node_modules/
+**/dist/
+**/dist-ssr/
+*.log
+
+# Python
+**/venv/
+**/env/
+**/.venv/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Databases
+backend/business.db
+*.db
+*.sqlite3
+
+# IDEs/Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
